@@ -1,2 +1,2 @@
 # dotnetcore
-dotnet core applications samples.
+c# applications samples.
